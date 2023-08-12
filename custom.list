@@ -1,0 +1,26 @@
+# 直连列表
+
+# 域名关键词直连
+DOMAIN-KEYWORD,ghproxy
+
+# Miui 小米
+DOMAIN,tracking.miui.com
+
+# ghproxy
+DOMAIN,ghproxy.com
+
+# 科研相关
+DOMAIN-SUFFIX,pubs.rsc.org
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,pubs.acs.org
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,access.clarivate.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,onlinelibrary.wiley.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,tandfonline.com
